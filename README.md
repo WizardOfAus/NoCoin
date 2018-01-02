@@ -1,3 +1,5 @@
+//look into reviewing the code and see improvements
+
 # No Coin
 No coin is a tiny browser extension aiming to block coin miners such as Coinhive.
 
